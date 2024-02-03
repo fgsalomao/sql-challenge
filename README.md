@@ -1,6 +1,6 @@
 # SQL-Challenge
 
-Submitted by: Felipe Salomao
+By: Felipe Salomao
 
 ### Scripts and Supporting Documents
 - **📁 EmployeeSQL** - a folder for housing the SQL scripts and support documents for the assignment.
