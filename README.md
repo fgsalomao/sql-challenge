@@ -1,4 +1,4 @@
-# SQL-Challenge - Module 9 Challenge Assignment
+# SQL-Challenge
 
 Submitted by: Felipe Salomao
 
